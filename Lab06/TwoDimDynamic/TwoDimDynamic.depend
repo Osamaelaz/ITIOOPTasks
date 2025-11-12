@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1762325513 source:d:\iti\oop\tasks\lab06\twodimdynamic\main.cpp
+	<iostream>
+	<windows.h>
+

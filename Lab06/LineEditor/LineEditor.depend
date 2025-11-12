@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762329225 source:d:\iti\oop\tasks\lab06\lineeditor\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+

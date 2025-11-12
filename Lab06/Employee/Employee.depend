@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1762384738 source:d:\iti\oop\tasks\lab06\employee\main.cpp
+	<iostream>
+	<cstring>
+
