@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762071494 source:d:\iti\oop\tasks\lab03\twodim\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+

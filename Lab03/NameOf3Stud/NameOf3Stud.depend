@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1762011812 source:d:\iti\oop\tasks\lab03\nameof3stud\main.cpp
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1762066594 source:d:\iti\oop\tasks\lab03\stcandcts\main.cpp
+	<iostream>
+	<string.h>
+
